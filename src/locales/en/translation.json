@@ -1,0 +1,24 @@
+{
+  "app": {
+    "title": "Social Support Portal"
+  },
+  "nav": {
+    "next": "Next",
+    "back": "Back",
+    "submit": "Submit"
+  },
+  "steps": {
+    "personal": "Personal Information",
+    "family": "Family & Financial Info",
+    "situation": "Situation Descriptions"
+  },
+  "language": "Language",
+  "lang": {
+    "en": "English",
+    "ar": "Arabic"
+  },
+  "home": {
+    "welcome": "Welcome! This is the application wizard skeleton."
+  },
+  "progress": "Step {{current}} of {{total}}"
+}
